@@ -1,7 +1,7 @@
 {
     "name": "Cyber-X WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
+    "repository": "https://github.com/Perf-D/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
     "keywords": [
         "nodejs",
@@ -12,17 +12,17 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "CYPHER-X:~UEsDBBQAAAgIAOpG6Vo9IjFIUAQAAG8HAAAKAAAAY3JlZHMuanNvbpVUW5OiOBT+L3nFGuWqUtVVAyogaAuNKLg1DxECpIWAIWjjlP99C3t6Zh52Z3t5CknqnO98l3wHpMINclAH1O+gpvgCGeqXrKsRUIHepimiYAASyCBQwcb2+L345tfDSRa+vChkUYbEWhf8ZSqS5dk9cfVR9uyahNkTuA9A3R4LHP+hoGQIZ9T6WTklcjURrBYbnaVvfGuoh25gnrbhAR0uk+tKPD2Be18RYopJtqhzVCIKCwd1LsT0c*A1w2oMalYrP1bs*bWdk0pI1*sLZ5oKxxm7KN+NhEBXWiH4HPx9ykjXETwT3MrcvLzemIec2K94Oao4WlqbpjaZvFpiS3qH3+CMoGSZIMIw6z7Nu*Psr4w03Xuh6c9rySInWo3OS56M9bGz11LF0ffWyeZewtHngL8F03WqdfpiZwRRGNT1ZBxxz*F4Qaxl40LNWLawdt6Ogjj6HbhLP7xy+l+824V5DjdmxNu5HY80Y*sSBZfUUVKmVXI606SgWONRfdg1n4Pv+IUzhdMsP2VWSV9dTKTx8ZA2qbhmdHtYpNPnWXLdHHTD+wUfspb+CSXJ2xzertYBm7GuR9NzUEnRyTmOVgtOrPbzrK4o9Y68LYW3Zn2Z2Ni53W5ufJ6Hot+JnT4z5FcSDkfNbGMWk1W0czdYe3pMdELdMgEqfx8AijLcMAoZrki*JwoDAJOLj2KK2INd0Nl41SrnSF6FuFxkE5*t8+j1oB*08Uz2g7kw1XzahM12GDyBAahpFaOmQYmFG1bRbo2aBmaoAepf3waAoDf2rtujGz8AKaYNC0hbFxVMPkT9OIRxXLWE+R2JZ*0CUaCOfm0jxjDJmp7GlkAa5*iCZjlkDVBTWDTo54CIogSojLboZ2hnVdLzPtemijkLJTAA5UMPnAAVCKI04RVREWRZElXla*Pl2peFdf2FIAYGoHhcU2SeV+SRIEuSwguq8rXfvv*E15dLEIO4aIAKZo5ZlNuTN0k66XqNIg1rmqNpPWcf83z44p14qTzmcWad5TlnSVmjjcnptRoLwS0ez+tlaW+WJh9pJPE875+K9C3dY2wHsFjTg5DdNP217V59bitthswtr3mQyqLWsnMn8123TdjRlBM+apHLt+SFY9Y6eBaFarHLMA*F1CksxTZWc++p75agC47R782uQ5kvi*Ry9Z5n6TXqrqxzD8KJcSHv+bP5nq+LkMtXY1qsOCM3k2JxtLrSnRvucHQKrX3qcHq4K6XptTlvwsl0yKQLzt4d+0hM8eOlwg8z9Ur1vylGj+AT2Ov338q9A+8NNroPfqvx4yn5lzjqyC6lcKkrrTfMueVK28jyUtlMi7W4uSq+jbdYZ3vNFoPFAtzv3wagLiBLK1oCFUCS0AonYABo1faOXZK0+kOzmb5c6t775AVsmPYrBVtcoobBsgYqP5aFkcyLvPJ+y6VVbcEmByoQMzewT72lO62ufQbZR6iA1n9WbID731BLAQIUAxQAAAgIAOpG6Vo9IjFIUAQAAG8HAAAKAAAAAAAAAAAAAACAgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAHgEAAAAAA==",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "2348163625543",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "Perf D",
             "required": true,
             "value": ""
         },
